@@ -1,0 +1,6 @@
+[
+    { "Keyword": "WRN", "Meaning": "Warning: Indicates a potential issue." },
+    { "Keyword": "ERR", "Meaning": "Error: Indicates a serious problem." },
+    { "Keyword": "INF", "Meaning": "Info: Provides general information." },
+    { "Keyword": "DBG", "Meaning": "Debug: Contains debugging information." }
+]
